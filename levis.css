@@ -1,0 +1,72 @@
+body{
+    background-color: white;
+}
+
+.navbar{
+    background-color:rgb(222, 213, 213);
+    width : 97%;
+    display: flex;
+    border-bottom: 2px black;
+    border-top: 2px black;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.nav1{
+    display: flex;
+    gap: 50px;
+    width: 40vw;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav2{
+    margin-left: 30px;
+}
+.nav3{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.btn{
+    background-color: cadetblue;
+    padding : 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.search{
+    border-radius: 10px;
+    height: 30px;
+}
+.body{
+    margin-top: 50px;
+    display: flex;
+    gap: 20px;
+}
+.card{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image{
+    border-radius: 10px;
+}
+.h1mid{
+    margin-left: 650px;
+}
+
+.ourproduct{
+    border: 2px solid rgb(121, 100, 121);
+    height: 500px;
+}
+
+.c1{
+    border: 1px solid black;
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-right: 1200px;
+    justify-content: center;
+    text-align: center;
+}
+
+
